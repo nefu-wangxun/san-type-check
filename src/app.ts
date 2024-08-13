@@ -15,8 +15,6 @@ export default class App extends Component {
     }
     attached() {
         let a;
-        console.log('App: ', this.data.get());
-        // console.log(a.length);
-        // doCompileCheck();
+        console.log('App: ', a.length);
     }
 }
