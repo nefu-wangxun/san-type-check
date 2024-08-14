@@ -14,7 +14,5 @@ export default class App extends Component {
         };
     }
     attached() {
-        let a;
-        console.log('App: ', a.length);
     }
 }
